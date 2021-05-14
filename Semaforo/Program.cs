@@ -51,6 +51,7 @@ namespace Semaforo
             Console.WriteLine($"s: {s}");
        
 
+
         }
     }
 }
